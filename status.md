@@ -1,16 +1,16 @@
 # Status Report
 
-#### Your name
+#### 
 
-TODO
+Daniel Blitshtein
 
 #### Your section leader's name
 
-TODO
+Rosen/Me? don't know what section leader means in this case
 
 #### Project title
 
-TODO
+Topple
 
 ***
 
@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have Completed the player movement for the turret
 
 #### What have you not done for your project yet?
 
